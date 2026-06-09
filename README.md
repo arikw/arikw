@@ -26,6 +26,6 @@
   
   &nbsp;
   
-  📫 [Contact me](https://arikw.github.io/contact-me)
+  📫 &nbsp;[Contact me](https://arikw.github.io/contact-me)
 
 </div>
